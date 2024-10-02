@@ -1,0 +1,19 @@
+[
+    { "nombre": "Ana", "edad": 28, "salario": 3000, "direccion": { "calle": "Av. Siempre Viva", "ciudad": "Lima", "pais": "Perú" } },
+    { "nombre": "Luis", "edad": 35, "salario": 4000, "direccion": { "calle": "Principal", "ciudad": "Madrid", "pais": "España" } },
+    { "nombre": "julia", "edad":45, "salario":6000, "dereccion":{"calle": "principal","ciudad": "barranquilla", "pais": "colombia"}},
+    { "nombre": "camila", "edad":54, "salario":8000, "direccion":{"calle": "132","ciudad":"ciudad de mexico","pais":"mexico"}},
+    {"nombre": "marlon", "edad":31, "salario":9000, "dereccion":{"calle":"avenida pricipal","ciudad":"tuliacan","pais":"mexico"}},
+    {"nombre": "liberdo", "edad":23, "salario":4000, "dereccion":{"calle":"arias","ciudad":"san juan","pais":"puerto rico"}},
+    {"nombre": "rodrigo", "edad":65, "salario":4300, "dereccion":{"calle":"avenida arias","ciudad":"buenos aires","pais":"Argentina"}},
+    {"nombre": "leandro", "edad":26, "salario":3000, "dereccion":{"calle":"paseo Arias","ciudad":"Madrid","pais":"España"}},
+    {"nombre":"camilo", "edad":38, "salario":7000, "dereccion":{"calle":"10","ciudad":"Bogota","pais":"colombia"}},
+    {"nombre":"karen", "edad":43,"salario":6000,"dereccion":{"calle":"avenida arias","ciudad":"santiago","pais":"chile"}},
+]
+
+
+
+    
+    
+
+    
